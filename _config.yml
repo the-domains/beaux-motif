@@ -12,5 +12,9 @@ color:
     - '#CEAFC0'
 layout_spectrum: 0.17518843081779778
 name: Beaux Motif
+navigation:
+  - name: Web Design
+    url: beauxmotif.com
+    type: external
 title: Beautiful Artistic Design
 description: Custom Interactive Websites
