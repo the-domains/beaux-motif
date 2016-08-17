@@ -1,4 +1,6 @@
 typography_spectrum: 0.861613200744614
+content_rating:
+  adult: true
 color:
   brandStrength: 0.7463792047929019
   lightness: 0.2594355312176049
@@ -11,6 +13,8 @@ color:
     - '#547AB1'
     - '#CEAFC0'
 layout_spectrum: 0.17518843081779778
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f7eade0-6bc6-4a9f-b094-416a979e390a.png
 name: Beaux Motif
 navigation:
   - name: Web Design
