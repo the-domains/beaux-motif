@@ -1,18 +1,18 @@
-typography_spectrum: 0.37029459653422236
+typography_spectrum: 0.5617857233155519
 content_rating:
   adult: true
 color:
-  brandStrength: 0.3276488995179534
-  lightness: 0.39192081871442497
-  saturation: 0.1686329529620707
-  rhythmicContrast: 0.41437854152172804
+  brandStrength: 0.9941059311386198
+  lightness: 0.6846741642802954
+  saturation: 0.7269217357970774
+  rhythmicContrast: 0.437897976487875
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-layout_spectrum: 0.32159753958694637
+layout_spectrum: 0.18012966844253242
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f7eade0-6bc6-4a9f-b094-416a979e390a.png
 name: Beaux Motif
