@@ -1,4 +1,4 @@
-typography_spectrum: 0.7453312568832189
+typography_spectrum: 0.9441127164755017
 content_rating:
   adult: true
 color:
@@ -12,7 +12,7 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-layout_spectrum: 0.12589550577104092
+layout_spectrum: 0.6715851940680295
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f7eade0-6bc6-4a9f-b094-416a979e390a.png
 name: Beaux Motif
